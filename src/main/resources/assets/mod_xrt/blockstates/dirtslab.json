@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "mod_xrt:block/dirtslab"
+    },
+    "type=top": {
+      "model": "mod_xrt:block/dirtslab_top"
+    },
+    "type=double": {
+      "model": "mod_xrt:block/dirtslab_full"
+    }
+  }
+}

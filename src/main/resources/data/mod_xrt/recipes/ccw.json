@@ -1,0 +1,22 @@
+{
+  "group": "mod_xrt",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mod_xrt:cactuslog"
+    },
+    {
+      "item": "mod_xrt:cactuslog"
+    },
+    {
+      "item": "mod_xrt:cactuslog"
+    },
+    {
+      "item": "mod_xrt:cactuslog"
+    }
+  ],
+  "result": {
+    "item": "mod_xrt:cactuswood",
+    "count": 3
+  }
+}

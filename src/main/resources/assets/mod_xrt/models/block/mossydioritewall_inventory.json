@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "mod_xrt:blocks/mossy_diorite",
+    "particle": "mod_xrt:blocks/mossy_diorite"
+  }
+}

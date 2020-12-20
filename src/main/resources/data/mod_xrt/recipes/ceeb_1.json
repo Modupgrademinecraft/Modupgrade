@@ -1,0 +1,13 @@
+{
+  "group": "mod_xrt",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mod_xrt:endereyeblock"
+    }
+  ],
+  "result": {
+    "item": "minecraft:ender_eye",
+    "count": 9
+  }
+}

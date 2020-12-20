@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "mod_xrt:blocks/sand",
+    "top": "mod_xrt:blocks/sand",
+    "side": "mod_xrt:blocks/sand"
+  }
+}

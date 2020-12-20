@@ -1,0 +1,42 @@
+{
+  "group": "mod_xrt",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:glistering_melon_slice"
+    },
+    "1": {
+      "item": "minecraft:glistering_melon_slice"
+    },
+    "2": {
+      "item": "minecraft:glistering_melon_slice"
+    },
+    "3": {
+      "item": "minecraft:glistering_melon_slice"
+    },
+    "4": {
+      "item": "minecraft:glistering_melon_slice"
+    },
+    "5": {
+      "item": "minecraft:glistering_melon_slice"
+    },
+    "6": {
+      "item": "minecraft:glistering_melon_slice"
+    },
+    "7": {
+      "item": "minecraft:glistering_melon_slice"
+    },
+    "8": {
+      "item": "minecraft:glistering_melon_slice"
+    }
+  },
+  "result": {
+    "item": "mod_xrt:glisteringmelon",
+    "count": 1
+  }
+}

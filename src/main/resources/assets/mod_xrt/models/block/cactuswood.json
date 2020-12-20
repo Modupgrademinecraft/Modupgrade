@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mod_xrt:blocks/cactus_side",
+    "up": "mod_xrt:blocks/cactus_side",
+    "north": "mod_xrt:blocks/cactus_side",
+    "east": "mod_xrt:blocks/cactus_side",
+    "south": "mod_xrt:blocks/cactus_side",
+    "west": "mod_xrt:blocks/cactus_side",
+    "particle": "mod_xrt:blocks/cactus_side"
+  }
+}

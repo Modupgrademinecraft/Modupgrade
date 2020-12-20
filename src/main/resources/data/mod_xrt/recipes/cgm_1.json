@@ -1,0 +1,13 @@
+{
+  "group": "mod_xrt",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mod_xrt:glisteringmelon"
+    }
+  ],
+  "result": {
+    "item": "minecraft:glistering_melon_slice",
+    "count": 9
+  }
+}

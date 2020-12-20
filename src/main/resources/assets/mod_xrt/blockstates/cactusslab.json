@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "mod_xrt:block/cactusslab"
+    },
+    "type=top": {
+      "model": "mod_xrt:block/cactusslab_top"
+    },
+    "type=double": {
+      "model": "mod_xrt:block/cactusslab_full"
+    }
+  }
+}

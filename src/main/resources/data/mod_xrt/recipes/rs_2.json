@@ -1,0 +1,33 @@
+{
+  "group": "mod_xrt",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:red_sand"
+    },
+    "3": {
+      "item": "minecraft:red_sand"
+    },
+    "4": {
+      "item": "minecraft:red_sand"
+    },
+    "6": {
+      "item": "minecraft:red_sand"
+    },
+    "7": {
+      "item": "minecraft:red_sand"
+    },
+    "8": {
+      "item": "minecraft:red_sand"
+    }
+  },
+  "result": {
+    "item": "mod_xrt:redsandstairs",
+    "count": 4
+  }
+}

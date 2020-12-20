@@ -1,0 +1,19 @@
+{
+  "group": "mod_xrt",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:orange_concrete"
+    },
+    {
+      "item": "minecraft:orange_concrete"
+    },
+    {
+      "item": "minecraft:orange_concrete"
+    }
+  ],
+  "result": {
+    "item": "mod_xrt:orangeconcreteslab",
+    "count": 6
+  }
+}

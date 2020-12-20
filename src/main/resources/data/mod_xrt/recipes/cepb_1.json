@@ -1,0 +1,13 @@
+{
+  "group": "mod_xrt",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mod_xrt:enderpearlblock"
+    }
+  ],
+  "result": {
+    "item": "minecraft:ender_pearl",
+    "count": 9
+  }
+}

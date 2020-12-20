@@ -1,0 +1,19 @@
+{
+  "group": "mod_xrt",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:purple_concrete"
+    },
+    {
+      "item": "minecraft:purple_concrete"
+    },
+    {
+      "item": "minecraft:purple_concrete"
+    }
+  ],
+  "result": {
+    "item": "mod_xrt:purpuleconcreteslab",
+    "count": 6
+  }
+}

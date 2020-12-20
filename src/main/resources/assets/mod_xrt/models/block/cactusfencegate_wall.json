@@ -1,0 +1,6 @@
+{
+  "parent": "block/template_fence_gate_wall",
+  "textures": {
+    "texture": "mod_xrt:blocks/cactusdoor1"
+  }
+}

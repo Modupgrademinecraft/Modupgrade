@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mod_xrt:blocks/kelpblock2",
+    "up": "mod_xrt:blocks/kelpblock2",
+    "north": "mod_xrt:blocks/kelpblock2",
+    "east": "mod_xrt:blocks/kelpblock2",
+    "south": "mod_xrt:blocks/kelpblock2",
+    "west": "mod_xrt:blocks/kelpblock2",
+    "particle": "mod_xrt:blocks/kelpblock2"
+  }
+}

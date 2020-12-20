@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mod_xrt:blocks/mossy_andesite",
+    "up": "mod_xrt:blocks/mossy_andesite",
+    "north": "mod_xrt:blocks/mossy_andesite",
+    "east": "mod_xrt:blocks/mossy_andesite",
+    "south": "mod_xrt:blocks/mossy_andesite",
+    "west": "mod_xrt:blocks/mossy_andesite",
+    "particle": "mod_xrt:blocks/mossy_andesite"
+  }
+}

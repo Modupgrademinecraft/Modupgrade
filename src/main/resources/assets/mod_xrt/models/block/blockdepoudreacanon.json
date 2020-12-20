@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mod_xrt:blocks/gunpowderblock",
+    "up": "mod_xrt:blocks/gunpowderblock",
+    "north": "mod_xrt:blocks/gunpowderblock",
+    "east": "mod_xrt:blocks/gunpowderblock",
+    "south": "mod_xrt:blocks/gunpowderblock",
+    "west": "mod_xrt:blocks/gunpowderblock",
+    "particle": "mod_xrt:blocks/gunpowderblock"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "group": "mod_xrt",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mod_xrt:mossydiorite"
+    },
+    {
+      "item": "mod_xrt:mossydiorite"
+    },
+    {
+      "item": "mod_xrt:mossydiorite"
+    },
+    {
+      "item": "mod_xrt:mossydiorite"
+    },
+    {
+      "item": "mod_xrt:mossydiorite"
+    },
+    {
+      "item": "mod_xrt:mossydiorite"
+    }
+  ],
+  "result": {
+    "item": "mod_xrt:mossydioritewall",
+    "count": 6
+  }
+}

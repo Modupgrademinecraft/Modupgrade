@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mod_xrt:blocks/flint_block",
+    "up": "mod_xrt:blocks/flint_block",
+    "north": "mod_xrt:blocks/flint_block",
+    "east": "mod_xrt:blocks/flint_block",
+    "south": "mod_xrt:blocks/flint_block",
+    "west": "mod_xrt:blocks/flint_block",
+    "particle": "mod_xrt:blocks/flint_block"
+  }
+}

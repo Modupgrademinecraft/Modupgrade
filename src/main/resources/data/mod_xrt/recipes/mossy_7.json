@@ -1,0 +1,33 @@
+{
+  "group": "mod_xrt",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "mod_xrt:mossyandesite"
+    },
+    "3": {
+      "item": "mod_xrt:mossyandesite"
+    },
+    "4": {
+      "item": "mod_xrt:mossyandesite"
+    },
+    "6": {
+      "item": "mod_xrt:mossyandesite"
+    },
+    "7": {
+      "item": "mod_xrt:mossyandesite"
+    },
+    "8": {
+      "item": "mod_xrt:mossyandesite"
+    }
+  },
+  "result": {
+    "item": "mod_xrt:mossyandesitestairs",
+    "count": 4
+  }
+}

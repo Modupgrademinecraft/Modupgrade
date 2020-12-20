@@ -1,0 +1,13 @@
+{
+  "group": "mod_xrt",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mod_xrt:blazepowderblock"
+    }
+  ],
+  "result": {
+    "item": "minecraft:blaze_powder",
+    "count": 9
+  }
+}

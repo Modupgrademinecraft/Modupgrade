@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mod_xrt:blocks/enderpearlblock",
+    "up": "mod_xrt:blocks/enderpearlblock",
+    "north": "mod_xrt:blocks/enderpearlblock",
+    "east": "mod_xrt:blocks/enderpearlblock",
+    "south": "mod_xrt:blocks/enderpearlblock",
+    "west": "mod_xrt:blocks/enderpearlblock",
+    "particle": "mod_xrt:blocks/enderpearlblock"
+  }
+}

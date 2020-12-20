@@ -1,0 +1,42 @@
+{
+  "group": "mod_xrt",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:kelp"
+    },
+    "1": {
+      "item": "minecraft:kelp"
+    },
+    "2": {
+      "item": "minecraft:kelp"
+    },
+    "3": {
+      "item": "minecraft:kelp"
+    },
+    "4": {
+      "item": "minecraft:kelp"
+    },
+    "5": {
+      "item": "minecraft:kelp"
+    },
+    "6": {
+      "item": "minecraft:kelp"
+    },
+    "7": {
+      "item": "minecraft:kelp"
+    },
+    "8": {
+      "item": "minecraft:kelp"
+    }
+  },
+  "result": {
+    "item": "mod_xrt:kelpblock",
+    "count": 1
+  }
+}

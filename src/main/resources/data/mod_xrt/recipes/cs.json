@@ -1,0 +1,19 @@
+{
+  "group": "mod_xrt",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mod_xrt:cactusplanks"
+    },
+    {
+      "item": "mod_xrt:cactusplanks"
+    },
+    {
+      "item": "mod_xrt:cactusplanks"
+    }
+  ],
+  "result": {
+    "item": "mod_xrt:cactusslab",
+    "count": 6
+  }
+}

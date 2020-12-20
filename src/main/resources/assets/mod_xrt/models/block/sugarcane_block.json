@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mod_xrt:blocks/sugarcaneblock2",
+    "up": "mod_xrt:blocks/sugarcaneblock2",
+    "north": "mod_xrt:blocks/sugarcaneblock",
+    "east": "mod_xrt:blocks/sugarcaneblock",
+    "south": "mod_xrt:blocks/sugarcaneblock",
+    "west": "mod_xrt:blocks/sugarcaneblock",
+    "particle": "mod_xrt:blocks/sugarcaneblock2"
+  }
+}

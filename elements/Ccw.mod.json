@@ -1,0 +1,46 @@
+{
+  "_fv": 13,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 3,
+    "group": "",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Cactuslog"
+      },
+      {
+        "value": "CUSTOM:Cactuslog"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Cactuslog"
+      },
+      {
+        "value": "CUSTOM:Cactuslog"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Cactuswood"
+    },
+    "name": "ccw",
+    "namespace": "mod"
+  }
+}

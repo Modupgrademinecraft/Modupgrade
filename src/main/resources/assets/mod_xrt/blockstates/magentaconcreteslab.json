@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "mod_xrt:block/magentaconcreteslab"
+    },
+    "type=top": {
+      "model": "mod_xrt:block/magentaconcreteslab_top"
+    },
+    "type=double": {
+      "model": "mod_xrt:block/magentaconcreteslab_full"
+    }
+  }
+}

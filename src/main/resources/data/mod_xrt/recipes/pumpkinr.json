@@ -1,0 +1,42 @@
+{
+  "group": "mod_xrt",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "mod_xrt:pumpkinslice"
+    },
+    "1": {
+      "item": "mod_xrt:pumpkinslice"
+    },
+    "2": {
+      "item": "mod_xrt:pumpkinslice"
+    },
+    "3": {
+      "item": "mod_xrt:pumpkinslice"
+    },
+    "4": {
+      "item": "mod_xrt:pumpkinslice"
+    },
+    "5": {
+      "item": "mod_xrt:pumpkinslice"
+    },
+    "6": {
+      "item": "mod_xrt:pumpkinslice"
+    },
+    "7": {
+      "item": "mod_xrt:pumpkinslice"
+    },
+    "8": {
+      "item": "mod_xrt:pumpkinslice"
+    }
+  },
+  "result": {
+    "item": "minecraft:pumpkin",
+    "count": 1
+  }
+}

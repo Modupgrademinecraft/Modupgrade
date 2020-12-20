@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "mod_xrt:block/netherackslab"
+    },
+    "type=top": {
+      "model": "mod_xrt:block/netherackslab_top"
+    },
+    "type=double": {
+      "model": "mod_xrt:block/netherackslab_full"
+    }
+  }
+}

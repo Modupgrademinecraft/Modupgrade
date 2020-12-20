@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mod_xrt:blocks/scuteblock",
+    "up": "mod_xrt:blocks/scuteblock",
+    "north": "mod_xrt:blocks/scuteblock",
+    "east": "mod_xrt:blocks/scuteblock",
+    "south": "mod_xrt:blocks/scuteblock",
+    "west": "mod_xrt:blocks/scuteblock",
+    "particle": "mod_xrt:blocks/scuteblock"
+  }
+}

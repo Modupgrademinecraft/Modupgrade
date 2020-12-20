@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "mod_xrt:blocks/orange_concrete",
+    "top": "mod_xrt:blocks/orange_concrete",
+    "side": "mod_xrt:blocks/orange_concrete"
+  }
+}

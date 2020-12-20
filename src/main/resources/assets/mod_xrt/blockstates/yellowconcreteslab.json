@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "mod_xrt:block/yellowconcreteslab"
+    },
+    "type=top": {
+      "model": "mod_xrt:block/yellowconcreteslab_top"
+    },
+    "type=double": {
+      "model": "mod_xrt:block/yellowconcreteslab_full"
+    }
+  }
+}

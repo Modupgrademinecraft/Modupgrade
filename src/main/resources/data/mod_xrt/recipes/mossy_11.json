@@ -1,0 +1,28 @@
+{
+  "group": "mod_xrt",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mod_xrt:mossyandesite"
+    },
+    {
+      "item": "mod_xrt:mossyandesite"
+    },
+    {
+      "item": "mod_xrt:mossyandesite"
+    },
+    {
+      "item": "mod_xrt:mossyandesite"
+    },
+    {
+      "item": "mod_xrt:mossyandesite"
+    },
+    {
+      "item": "mod_xrt:mossyandesite"
+    }
+  ],
+  "result": {
+    "item": "mod_xrt:mossyandesitewall",
+    "count": 6
+  }
+}

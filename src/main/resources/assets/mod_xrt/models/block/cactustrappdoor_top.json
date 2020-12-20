@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_orientable_trapdoor_top",
+  "textures": {
+    "texture": "mod_xrt:blocks/cactustrapdoor",
+    "particle": "mod_xrt:blocks/cactustrapdoor"
+  }
+}

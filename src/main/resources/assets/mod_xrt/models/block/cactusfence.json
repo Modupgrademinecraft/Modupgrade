@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "mod_xrt:blocks/cactusdoor1",
+    "particle": "mod_xrt:blocks/cactusdoor1"
+  }
+}

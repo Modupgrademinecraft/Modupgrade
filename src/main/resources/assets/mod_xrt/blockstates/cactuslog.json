@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "facing=south": {
+      "model": "mod_xrt:block/cactuslog"
+    },
+    "facing=north": {
+      "model": "mod_xrt:block/cactuslog"
+    },
+    "facing=east": {
+      "model": "mod_xrt:block/cactuslog",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "mod_xrt:block/cactuslog",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "mod_xrt:block/cactuslog",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down": {
+      "model": "mod_xrt:block/cactuslog",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

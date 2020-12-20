@@ -1,0 +1,19 @@
+{
+  "group": "mod_xrt",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:cyan_concrete"
+    },
+    {
+      "item": "minecraft:cyan_concrete"
+    },
+    {
+      "item": "minecraft:cyan_concrete"
+    }
+  ],
+  "result": {
+    "item": "mod_xrt:cyanconcreteslab",
+    "count": 6
+  }
+}

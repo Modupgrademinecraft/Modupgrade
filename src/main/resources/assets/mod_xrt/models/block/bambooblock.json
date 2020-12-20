@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mod_xrt:blocks/bambooblock2",
+    "up": "mod_xrt:blocks/bambooblock2",
+    "north": "mod_xrt:blocks/bambooblock",
+    "east": "mod_xrt:blocks/bambooblock",
+    "south": "mod_xrt:blocks/bambooblock",
+    "west": "mod_xrt:blocks/bambooblock",
+    "particle": "mod_xrt:blocks/bambooblock2"
+  }
+}

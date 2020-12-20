@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_bottom_rh",
+  "textures": {
+    "bottom": "mod_xrt:blocks/cactusdoor2",
+    "top": "mod_xrt:blocks/cactusplanks"
+  }
+}

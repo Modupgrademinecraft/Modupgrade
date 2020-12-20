@@ -1,0 +1,8 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "mod_xrt:blocks/smooth_stone",
+    "top": "mod_xrt:blocks/smooth_stone",
+    "side": "mod_xrt:blocks/smooth_stone"
+  }
+}

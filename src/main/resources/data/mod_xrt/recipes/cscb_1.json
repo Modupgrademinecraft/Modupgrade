@@ -1,0 +1,16 @@
+{
+  "group": "mod_xrt",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "mod_xrt:sugarcane_block"
+    }
+  },
+  "result": {
+    "item": "minecraft:sugar_cane",
+    "count": 9
+  }
+}

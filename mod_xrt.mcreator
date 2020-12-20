@@ -1,0 +1,2109 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Testthemod",
+      "type": "achievement",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "testthemod"
+    },
+    {
+      "name": "Yellowconcreteslab",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "yellowconcreteslab"
+    },
+    {
+      "name": "Whiteconcreteslab",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "whiteconcreteslab"
+    },
+    {
+      "name": "Redconcreteslab",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "redconcreteslab"
+    },
+    {
+      "name": "Purpuleconcreteslab",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purpuleconcreteslab"
+    },
+    {
+      "name": "Pinkconcreteslab",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pinkconcreteslab"
+    },
+    {
+      "name": "Orangeconcreteslab",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "orangeconcreteslab"
+    },
+    {
+      "name": "Magentaconcreteslab",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magentaconcreteslab"
+    },
+    {
+      "name": "Limeconcreteslab",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "limeconcreteslab"
+    },
+    {
+      "name": "Grayconcreteslab",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightgrayconcreteslab"
+    },
+    {
+      "name": "Lightblueconcreteslab",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightblueconcreteslab"
+    },
+    {
+      "name": "Greenconcreteslab",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "greenconcreteslab"
+    },
+    {
+      "name": "Grayconcreteslab1",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "grayconcreteslab_1"
+    },
+    {
+      "name": "Cyanconcreteslab",
+      "type": "block",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cyanconcreteslab"
+    },
+    {
+      "name": "Brownconcreteslab",
+      "type": "block",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brownconcreteslab"
+    },
+    {
+      "name": "Blueconcreteslab",
+      "type": "block",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blueconcreteslab"
+    },
+    {
+      "name": "Blackconcreteslab",
+      "type": "block",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blackconcreteslab"
+    },
+    {
+      "name": "Yellowconcretestair",
+      "type": "block",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "yellowconcretestair"
+    },
+    {
+      "name": "Whiteconcretestair",
+      "type": "block",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "whiteconcretestair"
+    },
+    {
+      "name": "Redconcretestair",
+      "type": "block",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "redconcretestair"
+    },
+    {
+      "name": "Purpulconcretestair",
+      "type": "block",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purpulconcretestair"
+    },
+    {
+      "name": "Pinkconcretestair",
+      "type": "block",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pinkconcretestair"
+    },
+    {
+      "name": "Orangeconcretestair",
+      "type": "block",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "orangeconcretestair"
+    },
+    {
+      "name": "Magentaconcretestair",
+      "type": "block",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magentaconcretestair"
+    },
+    {
+      "name": "Limeconcretestair",
+      "type": "block",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "limeconcretestair"
+    },
+    {
+      "name": "Lightgrayconcrete",
+      "type": "block",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightgrayconcrete"
+    },
+    {
+      "name": "Lightblueconcretestair",
+      "type": "block",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightblueconcretestair"
+    },
+    {
+      "name": "Greenconcretestair",
+      "type": "block",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "greenconcretestair"
+    },
+    {
+      "name": "Grayconcretestair",
+      "type": "block",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "grayconcretestair"
+    },
+    {
+      "name": "Cyanconcretestair",
+      "type": "block",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cyanconcretestair"
+    },
+    {
+      "name": "Brownconcretestair",
+      "type": "block",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brownconcretestair"
+    },
+    {
+      "name": "Blueconcretestair",
+      "type": "block",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blueconcretestair"
+    },
+    {
+      "name": "Blackconcretestair",
+      "type": "block",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blackconcretestair"
+    },
+    {
+      "name": "Ycsl",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ycsl"
+    },
+    {
+      "name": "Wcsl",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wcsl"
+    },
+    {
+      "name": "Rcsl",
+      "type": "recipe",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rcsl"
+    },
+    {
+      "name": "Pcsl",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pcsl"
+    },
+    {
+      "name": "Picsl",
+      "type": "recipe",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "picsl"
+    },
+    {
+      "name": "Opcsl",
+      "type": "recipe",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "opcsl"
+    },
+    {
+      "name": "Mcsl",
+      "type": "recipe",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mcsl"
+    },
+    {
+      "name": "Lcsl",
+      "type": "recipe",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lcsl"
+    },
+    {
+      "name": "Lgcsl",
+      "type": "recipe",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lgcsl"
+    },
+    {
+      "name": "Lbcsl",
+      "type": "recipe",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lbcsl"
+    },
+    {
+      "name": "Gcsl",
+      "type": "recipe",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gcsl"
+    },
+    {
+      "name": "Grcsl",
+      "type": "recipe",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "grcsl"
+    },
+    {
+      "name": "Ccsl",
+      "type": "recipe",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ccsl"
+    },
+    {
+      "name": "Bcsl",
+      "type": "recipe",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bcsl"
+    },
+    {
+      "name": "Blcsl",
+      "type": "recipe",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blcsl"
+    },
+    {
+      "name": "Blacsl",
+      "type": "recipe",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blacsl"
+    },
+    {
+      "name": "Ycs",
+      "type": "recipe",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ycs"
+    },
+    {
+      "name": "Wcs",
+      "type": "recipe",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wcs"
+    },
+    {
+      "name": "Rcs",
+      "type": "recipe",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rcs"
+    },
+    {
+      "name": "Pcs",
+      "type": "recipe",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pcs"
+    },
+    {
+      "name": "Pics",
+      "type": "recipe",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pics"
+    },
+    {
+      "name": "Ocs",
+      "type": "recipe",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ocs"
+    },
+    {
+      "name": "Mcs",
+      "type": "recipe",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mcs"
+    },
+    {
+      "name": "Lcs",
+      "type": "recipe",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lcs"
+    },
+    {
+      "name": "Lgcs",
+      "type": "recipe",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lgcs"
+    },
+    {
+      "name": "Lbcs",
+      "type": "recipe",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lbcs"
+    },
+    {
+      "name": "Gcs",
+      "type": "recipe",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gcs"
+    },
+    {
+      "name": "Grcs",
+      "type": "recipe",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "grcs"
+    },
+    {
+      "name": "Ccs",
+      "type": "recipe",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ccs"
+    },
+    {
+      "name": "Bcs",
+      "type": "recipe",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bcs"
+    },
+    {
+      "name": "Blcs",
+      "type": "recipe",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blcs"
+    },
+    {
+      "name": "Blacs",
+      "type": "recipe",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blacs"
+    },
+    {
+      "name": "Cactuslog",
+      "type": "block",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cactuslog"
+    },
+    {
+      "name": "Ccl",
+      "type": "recipe",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ccl"
+    },
+    {
+      "name": "Cactuswood",
+      "type": "block",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cactuswood"
+    },
+    {
+      "name": "Ccw",
+      "type": "recipe",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ccw"
+    },
+    {
+      "name": "Cactusplanks",
+      "type": "block",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cactusplanks"
+    },
+    {
+      "name": "Cp1",
+      "type": "recipe",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cp_1"
+    },
+    {
+      "name": "St1",
+      "type": "recipe",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "st_1"
+    },
+    {
+      "name": "Strippedcactuslog",
+      "type": "block",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "strippedcactuslog"
+    },
+    {
+      "name": "CactuslogOnBlockRightClicked",
+      "type": "procedure",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cactuslog_on_block_right_clicked",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Strippedcactuswood",
+      "type": "block",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "strippedcactuswood"
+    },
+    {
+      "name": "Cscw1",
+      "type": "recipe",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cscw_1"
+    },
+    {
+      "name": "Cactusslab",
+      "type": "block",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cactusslab"
+    },
+    {
+      "name": "Cs",
+      "type": "recipe",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cs"
+    },
+    {
+      "name": "Cactusstair",
+      "type": "block",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cactusstair"
+    },
+    {
+      "name": "Cst",
+      "type": "recipe",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cst"
+    },
+    {
+      "name": "Cactusfence",
+      "type": "block",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cactusfence"
+    },
+    {
+      "name": "Ccf",
+      "type": "recipe",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ccf"
+    },
+    {
+      "name": "Cactusfencegate",
+      "type": "block",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cactusfencegate"
+    },
+    {
+      "name": "CCFG",
+      "type": "recipe",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ccfg"
+    },
+    {
+      "name": "Cactusdoor",
+      "type": "block",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cactusdoor"
+    },
+    {
+      "name": "Cactustrappdoor",
+      "type": "block",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cactustrappdoor"
+    },
+    {
+      "name": "Ccd",
+      "type": "recipe",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ccd"
+    },
+    {
+      "name": "Cctd",
+      "type": "recipe",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cctd"
+    },
+    {
+      "name": "Claystairs",
+      "type": "block",
+      "sortid": 120,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "claystairs"
+    },
+    {
+      "name": "G1",
+      "type": "recipe",
+      "sortid": 129,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "g_1"
+    },
+    {
+      "name": "Dirtstairs",
+      "type": "block",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirtstairs"
+    },
+    {
+      "name": "G2",
+      "type": "recipe",
+      "sortid": 130,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "g_2"
+    },
+    {
+      "name": "E1",
+      "type": "recipe",
+      "sortid": 131,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "e_1"
+    },
+    {
+      "name": "E2",
+      "type": "recipe",
+      "sortid": 132,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "e_2"
+    },
+    {
+      "name": "E3",
+      "type": "recipe",
+      "sortid": 133,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "e_3"
+    },
+    {
+      "name": "C1",
+      "type": "recipe",
+      "sortid": 139,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "c_1"
+    },
+    {
+      "name": "Netherackslab",
+      "type": "block",
+      "sortid": 117,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netherackslab"
+    },
+    {
+      "name": "Clayslab",
+      "type": "block",
+      "sortid": 119,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "clayslab"
+    },
+    {
+      "name": "E4",
+      "type": "recipe",
+      "sortid": 134,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "e_4"
+    },
+    {
+      "name": "C2",
+      "type": "recipe",
+      "sortid": 140,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "c_2"
+    },
+    {
+      "name": "Soulsandslab",
+      "type": "block",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "soulsandslab"
+    },
+    {
+      "name": "SoulsandslabEntityWalksOnTheBlock",
+      "type": "procedure",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "soulsandslab_entity_walks_on_the_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Sandstairs",
+      "type": "block",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sandstairs"
+    },
+    {
+      "name": "Endstonestairs",
+      "type": "block",
+      "sortid": 116,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endstonestairs"
+    },
+    {
+      "name": "N1",
+      "type": "recipe",
+      "sortid": 135,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "n_1"
+    },
+    {
+      "name": "N2",
+      "type": "recipe",
+      "sortid": 136,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "n_2"
+    },
+    {
+      "name": "N3",
+      "type": "recipe",
+      "sortid": 137,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "n_3"
+    },
+    {
+      "name": "N4",
+      "type": "recipe",
+      "sortid": 138,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "n_4"
+    },
+    {
+      "name": "Redsandslab",
+      "type": "block",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "redsandslab"
+    },
+    {
+      "name": "Gravelslab",
+      "type": "block",
+      "sortid": 113,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gravelslab"
+    },
+    {
+      "name": "D1",
+      "type": "recipe",
+      "sortid": 121,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "d_1"
+    },
+    {
+      "name": "Endstoneslab",
+      "type": "block",
+      "sortid": 115,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endstoneslab"
+    },
+    {
+      "name": "D2",
+      "type": "recipe",
+      "sortid": 122,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "d_2"
+    },
+    {
+      "name": "Soulsandstairs",
+      "type": "block",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "soulsandstairs"
+    },
+    {
+      "name": "Netherrackstairs",
+      "type": "block",
+      "sortid": 118,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netherrackstairs"
+    },
+    {
+      "name": "Ss1",
+      "type": "recipe",
+      "sortid": 123,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ss_1"
+    },
+    {
+      "name": "Rs2",
+      "type": "recipe",
+      "sortid": 128,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rs_2"
+    },
+    {
+      "name": "Redsandstairs",
+      "type": "block",
+      "sortid": 112,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "redsandstairs"
+    },
+    {
+      "name": "Gravelstairs",
+      "type": "block",
+      "sortid": 114,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gravelstairs"
+    },
+    {
+      "name": "Rs1",
+      "type": "recipe",
+      "sortid": 127,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rs_1"
+    },
+    {
+      "name": "Ss2",
+      "type": "recipe",
+      "sortid": 124,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ss_2"
+    },
+    {
+      "name": "Sandslab",
+      "type": "block",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sandslab"
+    },
+    {
+      "name": "SoulsandstairsEntityWalksOnTheBlock",
+      "type": "procedure",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "soulsandstairs_entity_walks_on_the_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Dirtslab",
+      "type": "block",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirtslab"
+    },
+    {
+      "name": "S1",
+      "type": "recipe",
+      "sortid": 125,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "s_1"
+    },
+    {
+      "name": "S2",
+      "type": "recipe",
+      "sortid": 126,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "s_2"
+    },
+    {
+      "name": "Pumpkinslice",
+      "type": "food",
+      "sortid": 141,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pumpkinslice"
+    },
+    {
+      "name": "Pumpkin",
+      "type": "loottable",
+      "sortid": 142,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pumpkin"
+    },
+    {
+      "name": "Pumpkinr",
+      "type": "recipe",
+      "sortid": 143,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pumpkinr"
+    },
+    {
+      "name": "Gp1",
+      "type": "recipe",
+      "sortid": 144,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gp_1"
+    },
+    {
+      "name": "Cbb",
+      "type": "recipe",
+      "sortid": 221,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cbb"
+    },
+    {
+      "name": "Enderpearlblock",
+      "type": "block",
+      "sortid": 199,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderpearlblock"
+    },
+    {
+      "name": "Cscb1",
+      "type": "recipe",
+      "sortid": 219,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cscb_1"
+    },
+    {
+      "name": "CGm",
+      "type": "recipe",
+      "sortid": 154,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "c_gm"
+    },
+    {
+      "name": "Cgm1",
+      "type": "recipe",
+      "sortid": 171,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cgm_1"
+    },
+    {
+      "name": "Bambooblock",
+      "type": "block",
+      "sortid": 220,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bambooblock"
+    },
+    {
+      "name": "Cfb1",
+      "type": "recipe",
+      "sortid": 204,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cfb_1"
+    },
+    {
+      "name": "Sculeblock",
+      "type": "block",
+      "sortid": 213,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sculeblock"
+    },
+    {
+      "name": "Blazepowderblock",
+      "type": "block",
+      "sortid": 157,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blazepowderblock"
+    },
+    {
+      "name": "Cscb",
+      "type": "recipe",
+      "sortid": 218,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cscb"
+    },
+    {
+      "name": "Cbb1",
+      "type": "recipe",
+      "sortid": 222,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cbb_1"
+    },
+    {
+      "name": "Csb",
+      "type": "recipe",
+      "sortid": 214,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "csb"
+    },
+    {
+      "name": "Cgpb",
+      "type": "recipe",
+      "sortid": 156,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cgpb"
+    },
+    {
+      "name": "BlockdepoudreacanonOnBlockRightClicked",
+      "type": "procedure",
+      "sortid": 158,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blockdepoudreacanon_on_block_right_clicked",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Leatherblock",
+      "type": "block",
+      "sortid": 208,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "leatherblock"
+    },
+    {
+      "name": "Ckb",
+      "type": "recipe",
+      "sortid": 206,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ckb"
+    },
+    {
+      "name": "Cgpb2",
+      "type": "recipe",
+      "sortid": 162,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cgpb_2"
+    },
+    {
+      "name": "Nautilusblock",
+      "type": "block",
+      "sortid": 211,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nautilusblock"
+    },
+    {
+      "name": "Blockdepoudreacanon",
+      "type": "block",
+      "sortid": 155,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blockdepoudreacanon"
+    },
+    {
+      "name": "Ceb",
+      "type": "recipe",
+      "sortid": 161,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ceb"
+    },
+    {
+      "name": "Cepb1",
+      "type": "recipe",
+      "sortid": 201,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cepb_1"
+    },
+    {
+      "name": "Flintblock",
+      "type": "block",
+      "sortid": 202,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "flintblock"
+    },
+    {
+      "name": "Glisteringmelon",
+      "type": "block",
+      "sortid": 153,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glisteringmelon"
+    },
+    {
+      "name": "BlockdepoudreacanonRedstoneOn",
+      "type": "procedure",
+      "sortid": 159,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blockdepoudreacanon_redstone_on",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SugarcaneBlock",
+      "type": "block",
+      "sortid": 217,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sugarcane_block"
+    },
+    {
+      "name": "Cepb",
+      "type": "recipe",
+      "sortid": 200,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cepb"
+    },
+    {
+      "name": "Endereyeblock",
+      "type": "block",
+      "sortid": 160,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endereyeblock"
+    },
+    {
+      "name": "Ceeb1",
+      "type": "recipe",
+      "sortid": 190,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ceeb_1"
+    },
+    {
+      "name": "Cbpb",
+      "type": "recipe",
+      "sortid": 180,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cbpb"
+    },
+    {
+      "name": "EnderpearlblockEntityWalksOnTheBlock",
+      "type": "procedure",
+      "sortid": 199,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderpearlblock_entity_walks_on_the_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Kelpblock",
+      "type": "block",
+      "sortid": 205,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kelpblock"
+    },
+    {
+      "name": "Cnb",
+      "type": "recipe",
+      "sortid": 212,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cnb"
+    },
+    {
+      "name": "Ckb2",
+      "type": "recipe",
+      "sortid": 207,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ckb_2"
+    },
+    {
+      "name": "Clb",
+      "type": "recipe",
+      "sortid": 209,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "clb"
+    },
+    {
+      "name": "Clb1",
+      "type": "recipe",
+      "sortid": 210,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "clb_1"
+    },
+    {
+      "name": "Cnb1",
+      "type": "recipe",
+      "sortid": 215,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cnb_1"
+    },
+    {
+      "name": "Cbpb1",
+      "type": "recipe",
+      "sortid": 181,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cbpb_1"
+    },
+    {
+      "name": "Cfb",
+      "type": "recipe",
+      "sortid": 203,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cfb"
+    },
+    {
+      "name": "Csb1",
+      "type": "recipe",
+      "sortid": 216,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "csb_1"
+    },
+    {
+      "name": "Mossygraniteslab",
+      "type": "block",
+      "sortid": 143,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossygraniteslab"
+    },
+    {
+      "name": "Mossy10",
+      "type": "recipe",
+      "sortid": 162,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_10"
+    },
+    {
+      "name": "Mossydioritewall",
+      "type": "block",
+      "sortid": 152,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossydioritewall"
+    },
+    {
+      "name": "Mossy11",
+      "type": "recipe",
+      "sortid": 163,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_11"
+    },
+    {
+      "name": "Mossy6",
+      "type": "recipe",
+      "sortid": 158,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_6"
+    },
+    {
+      "name": "Mossy16",
+      "type": "recipe",
+      "sortid": 168,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_16"
+    },
+    {
+      "name": "Mossy5",
+      "type": "recipe",
+      "sortid": 157,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_5"
+    },
+    {
+      "name": "Mossy17",
+      "type": "recipe",
+      "sortid": 169,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_17"
+    },
+    {
+      "name": "Mossy4",
+      "type": "recipe",
+      "sortid": 156,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_4"
+    },
+    {
+      "name": "Mossy18",
+      "type": "recipe",
+      "sortid": 170,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_18"
+    },
+    {
+      "name": "Mossy3",
+      "type": "recipe",
+      "sortid": 155,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_3"
+    },
+    {
+      "name": "Mossy2",
+      "type": "recipe",
+      "sortid": 154,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_2"
+    },
+    {
+      "name": "Mossy12",
+      "type": "recipe",
+      "sortid": 164,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_12"
+    },
+    {
+      "name": "Mossy1",
+      "type": "recipe",
+      "sortid": 153,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_1"
+    },
+    {
+      "name": "Mossy13",
+      "type": "recipe",
+      "sortid": 165,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_13"
+    },
+    {
+      "name": "Mossyandesiteslab",
+      "type": "block",
+      "sortid": 147,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossyandesiteslab"
+    },
+    {
+      "name": "Mossy14",
+      "type": "recipe",
+      "sortid": 166,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_14"
+    },
+    {
+      "name": "Mossy15",
+      "type": "recipe",
+      "sortid": 167,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_15"
+    },
+    {
+      "name": "Mossygranitewall",
+      "type": "block",
+      "sortid": 144,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossygranitewall"
+    },
+    {
+      "name": "Mossydiorite",
+      "type": "block",
+      "sortid": 149,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossydiorite"
+    },
+    {
+      "name": "Mossyandesitewall",
+      "type": "block",
+      "sortid": 148,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossyandesitewall"
+    },
+    {
+      "name": "Mossydioritestairs",
+      "type": "block",
+      "sortid": 150,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossydioritestairs"
+    },
+    {
+      "name": "Mossyandesite",
+      "type": "block",
+      "sortid": 145,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossyandesite"
+    },
+    {
+      "name": "Mossyandesitestairs",
+      "type": "block",
+      "sortid": 146,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossyandesitestairs"
+    },
+    {
+      "name": "Mossygranitestairs",
+      "type": "block",
+      "sortid": 142,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossygranitestairs"
+    },
+    {
+      "name": "Mossydioriteslab",
+      "type": "block",
+      "sortid": 151,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossydioriteslab"
+    },
+    {
+      "name": "Mossy9",
+      "type": "recipe",
+      "sortid": 161,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_9"
+    },
+    {
+      "name": "Mossy8",
+      "type": "recipe",
+      "sortid": 160,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_8"
+    },
+    {
+      "name": "Mossy7",
+      "type": "recipe",
+      "sortid": 159,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossy_7"
+    },
+    {
+      "name": "Mossygranite",
+      "type": "block",
+      "sortid": 141,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mossygranite"
+    },
+    {
+      "name": "Smoothstonestair",
+      "type": "block",
+      "sortid": 223,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "smoothstonestair"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.mod_xrt.blackconcretestair": "Black Concrete Stair",
+      "block.mod_xrt.sugarcane_block": "Sugar Cane Block",
+      "block.mod_xrt.mossydioritestairs": "Mossydioritestairs",
+      "block.mod_xrt.sandstairs": "Sand stairs",
+      "block.mod_xrt.cactuswood": "Cactus Wood",
+      "block.mod_xrt.dirtstairs": "Dirt stairs",
+      "block.mod_xrt.cyanconcreteslab": "Cyan Concrete Slab",
+      "block.mod_xrt.brownconcretestair": "Cyan Concrete Stair",
+      "block.mod_xrt.redconcreteslab": "Red Concrete Slab",
+      "block.mod_xrt.pinkconcretestair": "Pink Concrete Stair",
+      "block.mod_xrt.cyanconcretestair": "Cyan Concrete Stair",
+      "block.mod_xrt.cactusdoor": "Cactus Door",
+      "block.mod_xrt.cactusslab": "Cactus Slab",
+      "block.mod_xrt.mossygranitewall": "Mossygranitewall",
+      "block.mod_xrt.gravelstairs": "Gravelstairs",
+      "block.mod_xrt.lightgrayconcreteslab": "Light Gray Concrete Slab",
+      "block.mod_xrt.greenconcretestair": "Green Concrete Stair",
+      "block.mod_xrt.redsandslab": "Redsandslab",
+      "block.mod_xrt.limeconcreteslab": "Lime Concrete Slab",
+      "block.mod_xrt.lightblueconcretestair": "Light Blue Concrete Stair",
+      "block.mod_xrt.sandslab": "Sand slab",
+      "block.mod_xrt.purpulconcretestair": "Purple Concrete Stair",
+      "block.mod_xrt.mossydioritewall": "Mossy diorite wall",
+      "block.mod_xrt.gravelslab": "Gravelslab",
+      "block.mod_xrt.brownconcreteslab": "Brownconcreteslab",
+      "block.mod_xrt.flintblock": "Flint Block",
+      "block.mod_xrt.blueconcreteslab": "Blueconcreteslab",
+      "block.mod_xrt.dirtslab": "Dirt slab",
+      "block.mod_xrt.pinkconcreteslab": "Pink  Concrete Slab",
+      "block.mod_xrt.orangeconcretestair": "Orange Concrete Stair",
+      "block.mod_xrt.netherrackstairs": "Netherrack stairs",
+      "block.mod_xrt.soulsandslab": "Soulsand slab",
+      "block.mod_xrt.cactuslog": "Cactus Log",
+      "block.mod_xrt.mossydioriteslab": "Mossy diorite slab",
+      "block.mod_xrt.yellowconcreteslab": "Yellow Concrete Slab",
+      "block.mod_xrt.endereyeblock": "Ender Eye Block",
+      "block.mod_xrt.leatherblock": "Leather Block",
+      "block.mod_xrt.cactusstair": "Cactus Stair",
+      "block.mod_xrt.glisteringmelon": "Glisteringmelon",
+      "block.mod_xrt.clayslab": "Clay slab",
+      "block.mod_xrt.cactusfencegate": "Cactus Fence Gate",
+      "block.mod_xrt.redsandstairs": " redsand stairs",
+      "block.mod_xrt.magentaconcreteslab": "Magenta Concrete Slab",
+      "advancements.testthemod.descr": "Test the mod",
+      "block.mod_xrt.cactusplanks": "Cactus Wood",
+      "block.mod_xrt.limeconcretestair": "Lime Concrete Stair",
+      "block.mod_xrt.cactusfence": "Cactus Fence",
+      "block.mod_xrt.mossydiorite": "Mossy diorite",
+      "block.mod_xrt.lightblueconcreteslab": "Light Blue Concrete Slab",
+      "block.mod_xrt.enderpearlblock": "Enderpearlblock",
+      "block.mod_xrt.strippedcactuslog": "Stripped Cactus Log",
+      "block.mod_xrt.orangeconcreteslab": "Orange Concrete Slab",
+      "block.mod_xrt.claystairs": "Clay stairs",
+      "block.mod_xrt.blackconcreteslab": "Blackconcreteslab",
+      "advancements.testthemod.title": "Test The Mod",
+      "block.mod_xrt.grayconcreteslab_1": "Gray Concrete Slab ",
+      "block.mod_xrt.mossygranitestairs": "Mossy granite stairs",
+      "block.mod_xrt.cactustrappdoor": "Cactus TrapDoor",
+      "block.mod_xrt.mossygranite": "Mossy granite",
+      "block.mod_xrt.bambooblock": "Bamboo Block",
+      "block.mod_xrt.smoothstonestair": "Smooth Stone Stair",
+      "block.mod_xrt.magentaconcretestair": "Magenta Concrete Stair",
+      "item.mod_xrt.pumpkinslice": "Pumpkin Slice",
+      "block.mod_xrt.greenconcreteslab": "Greenconcreteslab",
+      "block.mod_xrt.mossyandesiteslab": "Mossy andesite slab",
+      "block.mod_xrt.netherackslab": "Netherrack slab",
+      "block.mod_xrt.purpuleconcreteslab": "Purple Concrete Slab",
+      "block.mod_xrt.lightgrayconcrete": "Light Gray Concrete Stair",
+      "block.mod_xrt.blockdepoudreacanon": "Gunpowder Block",
+      "block.mod_xrt.mossygraniteslab": "Mossy granite slab",
+      "block.mod_xrt.strippedcactuswood": "Strippedcactuswood",
+      "block.mod_xrt.redconcretestair": "Red Concrete Stair",
+      "block.mod_xrt.mossyandesitestairs": "Mossy andesite stairs",
+      "block.mod_xrt.kelpblock": "Kelp Block",
+      "block.mod_xrt.endstoneslab": "Endstone slab",
+      "block.mod_xrt.soulsandstairs": "Soulsand stairs",
+      "block.mod_xrt.blazepowderblock": "Blaze Powder Block",
+      "block.mod_xrt.sculeblock": "Scute Block",
+      "block.mod_xrt.nautilusblock": "Nautilus Block",
+      "block.mod_xrt.blueconcretestair": "Blue Concrete Stair",
+      "block.mod_xrt.mossyandesite": "Mossy andesite",
+      "block.mod_xrt.whiteconcreteslab": "Whiteconcreteslab",
+      "block.mod_xrt.mossyandesitewall": "Mossy andesite wall",
+      "block.mod_xrt.yellowconcretestair": "Yellow Concrete Stair",
+      "block.mod_xrt.whiteconcretestair": "White Concrete Stair",
+      "block.mod_xrt.grayconcretestair": "Gray Concrete Stair",
+      "block.mod_xrt.endstonestairs": "Endstone stairs"
+    },
+    "fr_fr": {
+      "block.mod_xrt.blackconcretestair": "Escalier en Beton Noir",
+      "block.mod_xrt.sugarcane_block": "Sugar Cane Block",
+      "block.mod_xrt.mossydioritestairs": "Mossydioritestairs",
+      "block.mod_xrt.sandstairs": "Escalier en sable",
+      "block.mod_xrt.cactuswood": "Bois de cactus",
+      "block.mod_xrt.dirtstairs": "Escalier en Terre",
+      "block.mod_xrt.cyanconcreteslab": "Dalle en Beton Cyan",
+      "block.mod_xrt.brownconcretestair": "Escalier en Beton Marron",
+      "block.mod_xrt.redconcreteslab": "Dalle en Beton Rouge",
+      "block.mod_xrt.pinkconcretestair": "Escalier en Beton Rose",
+      "block.mod_xrt.cyanconcretestair": "Escalier en Beton Cyan",
+      "block.mod_xrt.cactusdoor": "Porte en Cactus",
+      "block.mod_xrt.cactusslab": "Dalle en Cactus",
+      "block.mod_xrt.mossygranitewall": "Mossygranitewall",
+      "block.mod_xrt.lightgrayconcreteslab": "Dalle en Beton Gris clair",
+      "block.mod_xrt.greenconcretestair": "Escalier en Beton Vert",
+      "block.mod_xrt.gravelstairs": "Escalier en Gravier",
+      "block.mod_xrt.redsandslab": "Dalle en Sable Rouge",
+      "block.mod_xrt.limeconcreteslab": "Dalle en Beton Vert clair",
+      "block.mod_xrt.lightblueconcretestair": "Escalier en Beton Bleu Clair",
+      "block.mod_xrt.sandslab": "Dalle en Sable",
+      "block.mod_xrt.purpulconcretestair": "Escalier en Beton Violet",
+      "block.mod_xrt.mossydioritewall": "Mossy diorite wall",
+      "block.mod_xrt.gravelslab": "Dalle en Gravier",
+      "block.mod_xrt.brownconcreteslab": "Dalle en Beton Marron",
+      "block.mod_xrt.flintblock": "Flintblock",
+      "block.mod_xrt.blueconcreteslab": "Dalle en Beton Bleu",
+      "block.mod_xrt.dirtslab": "Dalle en Terre",
+      "block.mod_xrt.pinkconcreteslab": "Dalle en Beton Rose",
+      "block.mod_xrt.orangeconcretestair": "Escalier en Beton Orange",
+      "block.mod_xrt.netherrackstairs": "Escalier en Netherrack",
+      "block.mod_xrt.soulsandslab": "Dalle en Soulsand ",
+      "block.mod_xrt.cactuslog": "Buche de Cactus",
+      "block.mod_xrt.mossydioriteslab": "Mossy diorite slab",
+      "block.mod_xrt.yellowconcreteslab": "Dalle en Beton Jaune",
+      "block.mod_xrt.endereyeblock": "Endereyeblock",
+      "block.mod_xrt.leatherblock": "Leather Block",
+      "block.mod_xrt.cactusstair": "Escalier en Cactus",
+      "block.mod_xrt.glisteringmelon": "Melon Scintillant",
+      "block.mod_xrt.clayslab": "Dalle en Argile",
+      "block.mod_xrt.cactusfencegate": "Barriere en Cactus",
+      "block.mod_xrt.redsandstairs": "Escalier en Sable Rouge",
+      "block.mod_xrt.magentaconcreteslab": "Dalle en Beton Magenta",
+      "advancements.testthemod.descr": "Test le mod",
+      "block.mod_xrt.cactusplanks": "Planche de Cactus",
+      "block.mod_xrt.limeconcretestair": "Escalier en Beton Vert Clair",
+      "block.mod_xrt.cactusfence": "Barrière en Cactus",
+      "block.mod_xrt.mossydiorite": "Mossy diorite",
+      "block.mod_xrt.lightblueconcreteslab": "Dalle en Beton Bleu Clair",
+      "block.mod_xrt.enderpearlblock": "Enderpearlblock",
+      "block.mod_xrt.strippedcactuslog": "Buche de Cactus Ecorce",
+      "block.mod_xrt.orangeconcreteslab": "Dalle en Beton Orange",
+      "block.mod_xrt.claystairs": "Ecalier en Argile",
+      "block.mod_xrt.blackconcreteslab": "Dalle en Beton Noir",
+      "advancements.testthemod.title": "Test Le Mod",
+      "block.mod_xrt.grayconcreteslab_1": "Dalle en Beton Gris",
+      "block.mod_xrt.mossygranitestairs": "Mossy granite stairs",
+      "block.mod_xrt.cactustrappdoor": "Trappe en Cactus",
+      "block.mod_xrt.mossygranite": "Mossy granite",
+      "block.mod_xrt.bambooblock": "Bamboo Block",
+      "block.mod_xrt.smoothstonestair": "Smooth Stone Stair",
+      "block.mod_xrt.magentaconcretestair": "Escalier en Beton Magenta",
+      "item.mod_xrt.pumpkinslice": "Tranche de Citrouille",
+      "block.mod_xrt.greenconcreteslab": "Dalle en Beton Vert",
+      "block.mod_xrt.mossyandesiteslab": "Mossy andesite slab",
+      "block.mod_xrt.netherackslab": "Dalle en Netherrack",
+      "block.mod_xrt.purpuleconcreteslab": "Dalle en Beton Violet",
+      "block.mod_xrt.lightgrayconcrete": "Escalier en Beton Gris Clair",
+      "block.mod_xrt.blockdepoudreacanon": "Gunpowder Block",
+      "block.mod_xrt.mossygraniteslab": "Mossy granite slab",
+      "block.mod_xrt.strippedcactuswood": "Bois de Cactus Ecorce",
+      "block.mod_xrt.redconcretestair": "Escalier en Beton Rouge",
+      "block.mod_xrt.mossyandesitestairs": "Mossy andesite stairs",
+      "block.mod_xrt.kelpblock": "Kelpblock",
+      "block.mod_xrt.endstoneslab": "Dalle en Pierre de l\u0027End",
+      "block.mod_xrt.soulsandstairs": "Escalier en Soulsand ",
+      "block.mod_xrt.blazepowderblock": "Blazepowderblock",
+      "block.mod_xrt.sculeblock": "Scute Block",
+      "block.mod_xrt.nautilusblock": "Nautilusblock",
+      "block.mod_xrt.blueconcretestair": "Escalier en Beton Blue",
+      "block.mod_xrt.mossyandesite": "Mossy andesite",
+      "block.mod_xrt.whiteconcreteslab": "Dalle en Beton Blanc",
+      "block.mod_xrt.mossyandesitewall": "Mossy andesite wall",
+      "block.mod_xrt.yellowconcretestair": "Escalier en Beton Jaune",
+      "block.mod_xrt.whiteconcretestair": "Escalier en Beton Blanc",
+      "block.mod_xrt.grayconcretestair": "Escalier en Beton Gris",
+      "block.mod_xrt.endstonestairs": "Escalier en Pierre de l\u0027End"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "mod_xrt",
+    "modName": "mod Xrt",
+    "version": "1.0.0",
+    "author": "famille, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.modxrt",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}

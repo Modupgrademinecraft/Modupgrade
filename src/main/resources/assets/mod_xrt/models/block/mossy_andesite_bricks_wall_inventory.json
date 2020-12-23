@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "mod_xrt:blocks/mossy_andesite_bricks",
+    "particle": "mod_xrt:blocks/mossy_andesite_bricks"
+  }
+}

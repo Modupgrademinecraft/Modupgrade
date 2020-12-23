@@ -1,0 +1,28 @@
+{
+  "group": "mod_xrt",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:cracked_stone_bricks"
+    },
+    {
+      "item": "minecraft:cracked_stone_bricks"
+    },
+    {
+      "item": "minecraft:cracked_stone_bricks"
+    },
+    {
+      "item": "minecraft:cracked_stone_bricks"
+    },
+    {
+      "item": "minecraft:cracked_stone_bricks"
+    },
+    {
+      "item": "minecraft:cracked_stone_bricks"
+    }
+  ],
+  "result": {
+    "item": "mod_xrt:cracked_stone_bricks_wall",
+    "count": 6
+  }
+}

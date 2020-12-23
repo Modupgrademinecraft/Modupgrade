@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_wall_post",
+  "textures": {
+    "wall": "mod_xrt:blocks/cracked_stone_bricks",
+    "particle": "mod_xrt:blocks/cracked_stone_bricks"
+  }
+}

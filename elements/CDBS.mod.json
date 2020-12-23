@@ -1,0 +1,46 @@
+{
+  "_fv": 13,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 6,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:CrackedDioriteBricks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:CrackedDioriteBricks"
+      },
+      {
+        "value": "CUSTOM:CrackedDioriteBricks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:CrackedDioriteBricks"
+      },
+      {
+        "value": "CUSTOM:CrackedDioriteBricks"
+      },
+      {
+        "value": "CUSTOM:CrackedDioriteBricks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:CrackedDioriteBricksStairs"
+    },
+    "name": "cdbs",
+    "namespace": "mod"
+  }
+}

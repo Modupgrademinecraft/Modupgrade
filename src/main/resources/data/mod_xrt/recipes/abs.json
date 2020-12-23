@@ -1,0 +1,33 @@
+{
+  "group": "mod_xrt",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "mod_xrt:andesite_bricks"
+    },
+    "3": {
+      "item": "mod_xrt:andesite_bricks"
+    },
+    "4": {
+      "item": "mod_xrt:andesite_bricks"
+    },
+    "6": {
+      "item": "mod_xrt:andesite_bricks"
+    },
+    "7": {
+      "item": "mod_xrt:andesite_bricks"
+    },
+    "8": {
+      "item": "mod_xrt:andesite_bricks"
+    }
+  },
+  "result": {
+    "item": "mod_xrt:andesite_bricks_stairs",
+    "count": 4
+  }
+}

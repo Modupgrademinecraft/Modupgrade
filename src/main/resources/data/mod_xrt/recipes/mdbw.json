@@ -1,0 +1,28 @@
+{
+  "group": "mod_xrt",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mod_xrt:mossy_diorite_bricks"
+    },
+    {
+      "item": "mod_xrt:mossy_diorite_bricks"
+    },
+    {
+      "item": "mod_xrt:mossy_diorite_bricks"
+    },
+    {
+      "item": "mod_xrt:mossy_diorite_bricks"
+    },
+    {
+      "item": "mod_xrt:mossy_diorite_bricks"
+    },
+    {
+      "item": "mod_xrt:mossy_diorite_bricks"
+    }
+  ],
+  "result": {
+    "item": "mod_xrt:mossy_diorite_bricks_wall",
+    "count": 6
+  }
+}

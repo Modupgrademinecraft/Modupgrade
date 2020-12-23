@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mod_xrt:blocks/mossy_chiseled_stone_bricks",
+    "up": "mod_xrt:blocks/mossy_chiseled_stone_bricks",
+    "north": "mod_xrt:blocks/mossy_chiseled_stone_bricks",
+    "east": "mod_xrt:blocks/mossy_chiseled_stone_bricks",
+    "south": "mod_xrt:blocks/mossy_chiseled_stone_bricks",
+    "west": "mod_xrt:blocks/mossy_chiseled_stone_bricks",
+    "particle": "mod_xrt:blocks/mossy_chiseled_stone_bricks"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "group": "mod_xrt",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "mod_xrt:andesite_bricks"
+  },
+  "result": "mod_xrt:andesite_bricks_wall"
+}

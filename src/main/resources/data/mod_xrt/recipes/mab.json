@@ -1,0 +1,16 @@
+{
+  "group": "mod_xrt",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mod_xrt:andesite_bricks"
+    },
+    {
+      "item": "minecraft:vine"
+    }
+  ],
+  "result": {
+    "item": "mod_xrt:mossy_andesite_bricks",
+    "count": 1
+  }
+}

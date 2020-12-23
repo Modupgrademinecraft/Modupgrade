@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_wall_side",
+  "textures": {
+    "wall": "mod_xrt:blocks/granite_bricks",
+    "particle": "mod_xrt:blocks/granite_bricks"
+  }
+}

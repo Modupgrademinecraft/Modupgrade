@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "mod_xrt:block/cracked_andesite_bricks_slab"
+    },
+    "type=top": {
+      "model": "mod_xrt:block/cracked_andesite_bricks_slab_top"
+    },
+    "type=double": {
+      "model": "mod_xrt:block/cracked_andesite_bricks_slab_full"
+    }
+  }
+}

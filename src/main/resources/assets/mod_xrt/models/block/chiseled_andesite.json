@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mod_xrt:blocks/chiseled_andesite",
+    "up": "mod_xrt:blocks/chiseled_andesite",
+    "north": "mod_xrt:blocks/chiseled_andesite",
+    "east": "mod_xrt:blocks/chiseled_andesite",
+    "south": "mod_xrt:blocks/chiseled_andesite",
+    "west": "mod_xrt:blocks/chiseled_andesite",
+    "particle": "mod_xrt:blocks/chiseled_andesite"
+  }
+}

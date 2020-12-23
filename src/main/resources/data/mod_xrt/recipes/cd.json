@@ -1,0 +1,16 @@
+{
+  "group": "mod_xrt",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mod_xrt:diorite_bricksw_wall"
+    },
+    {
+      "item": "mod_xrt:diorite_bricksw_wall"
+    }
+  ],
+  "result": {
+    "item": "mod_xrt:chiseled_diorite_bricks",
+    "count": 1
+  }
+}

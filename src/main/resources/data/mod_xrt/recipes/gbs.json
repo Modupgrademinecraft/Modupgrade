@@ -1,0 +1,33 @@
+{
+  "group": "mod_xrt",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "mod_xrt:granite_bricks"
+    },
+    "3": {
+      "item": "mod_xrt:granite_bricks"
+    },
+    "4": {
+      "item": "mod_xrt:granite_bricks"
+    },
+    "6": {
+      "item": "mod_xrt:granite_bricks"
+    },
+    "7": {
+      "item": "mod_xrt:granite_bricks"
+    },
+    "8": {
+      "item": "mod_xrt:granite_bricks"
+    }
+  },
+  "result": {
+    "item": "mod_xrt:granite_bricks_stairs",
+    "count": 6
+  }
+}

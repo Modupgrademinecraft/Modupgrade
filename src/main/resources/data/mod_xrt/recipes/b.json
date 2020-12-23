@@ -1,0 +1,9 @@
+{
+  "group": "mod_xrt",
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "minecraft:brown_concrete"
+  },
+  "result": "mod_xrt:brownconcreteslab"
+}

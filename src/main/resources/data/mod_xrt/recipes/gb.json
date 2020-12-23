@@ -1,0 +1,22 @@
+{
+  "group": "mod_xrt",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:granite"
+    },
+    {
+      "item": "minecraft:granite"
+    },
+    {
+      "item": "minecraft:granite"
+    },
+    {
+      "item": "minecraft:granite"
+    }
+  ],
+  "result": {
+    "item": "mod_xrt:granite_bricks",
+    "count": 4
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mod_xrt:blocks/chiseled_granite",
+    "up": "mod_xrt:blocks/chiseled_granite",
+    "north": "mod_xrt:blocks/chiseled_granite",
+    "east": "mod_xrt:blocks/chiseled_granite",
+    "south": "mod_xrt:blocks/chiseled_granite",
+    "west": "mod_xrt:blocks/chiseled_granite",
+    "particle": "mod_xrt:blocks/chiseled_granite"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "group": "mod_xrt",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "minecraft:orange_concrete"
+  },
+  "result": "mod_xrt:orangeconcretestair"
+}

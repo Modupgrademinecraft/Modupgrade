@@ -1,0 +1,12 @@
+{
+  "group": "mod_xrt",
+  "type": "minecraft:smelting",
+  "experience": 1,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "minecraft:chiseled_stone_bricks"
+  },
+  "result": {
+    "item": "mod_xrt:cracked_chiseled_stone_bricks"
+  }
+}

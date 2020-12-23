@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "mod_xrt:blocks/mossy_diorite_bricks",
+    "top": "mod_xrt:blocks/mossy_diorite_bricks",
+    "side": "mod_xrt:blocks/mossy_diorite_bricks"
+  }
+}

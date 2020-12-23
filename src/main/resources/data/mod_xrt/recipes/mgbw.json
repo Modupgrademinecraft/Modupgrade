@@ -1,0 +1,32 @@
+{
+  "group": "mod_xrt",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "mod_xrt:mossy_granite_bricks"
+    },
+    "1": {
+      "item": "mod_xrt:mossy_granite_bricks"
+    },
+    "2": {
+      "item": "mod_xrt:mossy_granite_bricks"
+    },
+    "3": {
+      "item": "mod_xrt:mossy_granite_bricks"
+    },
+    "4": {
+      "item": "mod_xrt:mossy_granite_bricks"
+    },
+    "5": {
+      "item": "mod_xrt:mossy_granite_bricks"
+    }
+  },
+  "result": {
+    "item": "mod_xrt:mossy_granite_bricks_wall",
+    "count": 6
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "group": "mod_xrt",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:andesite"
+    },
+    {
+      "item": "minecraft:andesite"
+    },
+    {
+      "item": "minecraft:andesite"
+    },
+    {
+      "item": "minecraft:andesite"
+    }
+  ],
+  "result": {
+    "item": "mod_xrt:andesite_bricks",
+    "count": 4
+  }
+}

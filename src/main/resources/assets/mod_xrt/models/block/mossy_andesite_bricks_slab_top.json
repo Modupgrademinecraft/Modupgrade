@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "mod_xrt:blocks/mossy_andesite_bricks",
+    "top": "mod_xrt:blocks/mossy_andesite_bricks",
+    "side": "mod_xrt:blocks/mossy_andesite_bricks"
+  }
+}

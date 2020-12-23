@@ -1,0 +1,19 @@
+{
+  "group": "mod_xrt",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mod_xrt:mossy_andesite_bricks"
+    },
+    {
+      "item": "mod_xrt:mossy_andesite_bricks"
+    },
+    {
+      "item": "mod_xrt:mossy_andesite_bricks"
+    }
+  ],
+  "result": {
+    "item": "mod_xrt:mossy_andesite_bricks_slab",
+    "count": 6
+  }
+}

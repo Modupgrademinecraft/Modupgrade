@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mod_xrt:blocks/chiseled_diorite",
+    "up": "mod_xrt:blocks/chiseled_diorite",
+    "north": "mod_xrt:blocks/chiseled_diorite",
+    "east": "mod_xrt:blocks/chiseled_diorite",
+    "south": "mod_xrt:blocks/chiseled_diorite",
+    "west": "mod_xrt:blocks/chiseled_diorite",
+    "particle": "mod_xrt:blocks/chiseled_diorite"
+  }
+}

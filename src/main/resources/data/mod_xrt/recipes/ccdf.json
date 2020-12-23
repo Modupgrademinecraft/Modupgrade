@@ -1,0 +1,12 @@
+{
+  "group": "mod_xrt",
+  "type": "minecraft:smelting",
+  "experience": 1,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "mod_xrt:chiseled_diorite_bricks"
+  },
+  "result": {
+    "item": "mod_xrt:cracked_chiseled_diorite"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "group": "mod_xrt",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mod_xrt:granite_bricks_slab"
+    },
+    {
+      "item": "mod_xrt:granite_bricks_slab"
+    }
+  ],
+  "result": {
+    "item": "mod_xrt:chiseled_granite",
+    "count": 1
+  }
+}

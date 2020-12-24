@@ -1,0 +1,19 @@
+{
+  "group": "mod_xrt",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:magenta_terracotta"
+    },
+    {
+      "item": "minecraft:magenta_terracotta"
+    },
+    {
+      "item": "minecraft:magenta_terracotta"
+    }
+  ],
+  "result": {
+    "item": "mod_xrt:magenta_terracotta_slab",
+    "count": 6
+  }
+}

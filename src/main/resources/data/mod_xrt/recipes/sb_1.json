@@ -1,0 +1,13 @@
+{
+  "group": "mod_xrt",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mod_xrt:sugar_block"
+    }
+  ],
+  "result": {
+    "item": "minecraft:sugar",
+    "count": 9
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "mod_xrt:block/bone_meal_block"
+    }
+  }
+}

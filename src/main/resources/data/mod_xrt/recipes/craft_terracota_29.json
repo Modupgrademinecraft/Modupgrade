@@ -1,0 +1,28 @@
+{
+  "group": "mod_xrt",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:cyan_terracotta"
+    },
+    {
+      "item": "minecraft:cyan_terracotta"
+    },
+    {
+      "item": "minecraft:cyan_terracotta"
+    },
+    {
+      "item": "minecraft:cyan_terracotta"
+    },
+    {
+      "item": "minecraft:cyan_terracotta"
+    },
+    {
+      "item": "minecraft:cyan_terracotta"
+    }
+  ],
+  "result": {
+    "item": "mod_xrt:cyan_terracotta_stairs",
+    "count": 6
+  }
+}

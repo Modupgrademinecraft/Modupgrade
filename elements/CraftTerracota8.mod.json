@@ -1,0 +1,46 @@
+{
+  "_fv": 13,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 6,
+    "group": "",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.STAINED_HARDENED_CLAY#5"
+      },
+      {
+        "value": "Blocks.STAINED_HARDENED_CLAY#5"
+      },
+      {
+        "value": "Blocks.STAINED_HARDENED_CLAY#5"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:LimeTerracottaSlab"
+    },
+    "name": "craft_terracota_8",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "group": "mod_xrt",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:bone_block"
+    }
+  ],
+  "result": {
+    "item": "minecraft:bone",
+    "count": 9
+  }
+}

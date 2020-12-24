@@ -1,0 +1,28 @@
+{
+  "group": "mod_xrt",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:orange_terracotta"
+    },
+    {
+      "item": "minecraft:orange_terracotta"
+    },
+    {
+      "item": "minecraft:orange_terracotta"
+    },
+    {
+      "item": "minecraft:orange_terracotta"
+    },
+    {
+      "item": "minecraft:orange_terracotta"
+    },
+    {
+      "item": "minecraft:orange_terracotta"
+    }
+  ],
+  "result": {
+    "item": "mod_xrt:orange_terracotta_stairs",
+    "count": 6
+  }
+}

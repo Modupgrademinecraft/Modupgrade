@@ -1,0 +1,46 @@
+{
+  "_fv": 13,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 6,
+    "group": "",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "Blocks.STAINED_HARDENED_CLAY#1"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.STAINED_HARDENED_CLAY#1"
+      },
+      {
+        "value": "Blocks.STAINED_HARDENED_CLAY#1"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.STAINED_HARDENED_CLAY#1"
+      },
+      {
+        "value": "Blocks.STAINED_HARDENED_CLAY#1"
+      },
+      {
+        "value": "Blocks.STAINED_HARDENED_CLAY#1"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:OrangeTerracottaStairs"
+    },
+    "name": "craft_terracota_22",
+    "namespace": "mod"
+  }
+}

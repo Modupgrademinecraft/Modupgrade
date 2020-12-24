@@ -1,0 +1,9 @@
+{
+  "group": "mod_xrt",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "minecraft:green_terracotta"
+  },
+  "result": "mod_xrt:green_terracotta_stairs"
+}

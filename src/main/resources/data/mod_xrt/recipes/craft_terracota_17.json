@@ -1,0 +1,28 @@
+{
+  "group": "mod_xrt",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:yellow_terracotta"
+    },
+    {
+      "item": "minecraft:yellow_terracotta"
+    },
+    {
+      "item": "minecraft:yellow_terracotta"
+    },
+    {
+      "item": "minecraft:yellow_terracotta"
+    },
+    {
+      "item": "minecraft:yellow_terracotta"
+    },
+    {
+      "item": "minecraft:yellow_terracotta"
+    }
+  ],
+  "result": {
+    "item": "mod_xrt:yellow_terracotta_stairs",
+    "count": 6
+  }
+}

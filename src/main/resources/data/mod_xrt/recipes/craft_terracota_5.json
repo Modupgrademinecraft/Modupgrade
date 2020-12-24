@@ -1,0 +1,19 @@
+{
+  "group": "mod_xrt",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:pink_terracotta"
+    },
+    {
+      "item": "minecraft:pink_terracotta"
+    },
+    {
+      "item": "minecraft:pink_terracotta"
+    }
+  ],
+  "result": {
+    "item": "mod_xrt:pink_terracotta_slab",
+    "count": 6
+  }
+}

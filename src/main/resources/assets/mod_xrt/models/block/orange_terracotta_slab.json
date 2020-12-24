@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "mod_xrt:blocks/orange_terracotta",
+    "top": "mod_xrt:blocks/orange_terracotta",
+    "side": "mod_xrt:blocks/orange_terracotta"
+  }
+}

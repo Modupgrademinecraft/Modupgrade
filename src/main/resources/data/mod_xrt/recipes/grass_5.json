@@ -1,0 +1,22 @@
+{
+  "group": "mod_xrt",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:mycelium"
+    },
+    "1": {
+      "item": "minecraft:mycelium"
+    },
+    "2": {
+      "item": "minecraft:mycelium"
+    }
+  },
+  "result": {
+    "item": "mod_xrt:mycleniumslab",
+    "count": 6
+  }
+}

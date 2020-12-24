@@ -1,0 +1,22 @@
+{
+  "group": "mod_xrt",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:podzol"
+    },
+    "1": {
+      "item": "minecraft:podzol"
+    },
+    "2": {
+      "item": "minecraft:podzol"
+    }
+  },
+  "result": {
+    "item": "mod_xrt:podzolslab",
+    "count": 6
+  }
+}

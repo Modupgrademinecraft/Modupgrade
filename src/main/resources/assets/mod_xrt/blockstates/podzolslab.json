@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "mod_xrt:block/podzolslab"
+    },
+    "type=top": {
+      "model": "mod_xrt:block/podzolslab_top"
+    },
+    "type=double": {
+      "model": "mod_xrt:block/podzolslab_full"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mod_xrt:blocks/dirt",
+    "up": "mod_xrt:blocks/snow",
+    "north": "mod_xrt:blocks/grass_block_snow",
+    "east": "mod_xrt:blocks/grass_block_snow",
+    "south": "mod_xrt:blocks/grass_block_snow",
+    "west": "mod_xrt:blocks/grass_block_snow",
+    "particle": "mod_xrt:blocks/dirt"
+  }
+}

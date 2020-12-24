@@ -1,0 +1,33 @@
+{
+  "group": "mod_xrt",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "mod_xrt:snowygrassblock"
+    },
+    "3": {
+      "item": "mod_xrt:snowygrassblock"
+    },
+    "4": {
+      "item": "mod_xrt:snowygrassblock"
+    },
+    "6": {
+      "item": "mod_xrt:snowygrassblock"
+    },
+    "7": {
+      "item": "mod_xrt:snowygrassblock"
+    },
+    "8": {
+      "item": "mod_xrt:snowygrassblock"
+    }
+  },
+  "result": {
+    "item": "mod_xrt:snowygrassstairs",
+    "count": 4
+  }
+}

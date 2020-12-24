@@ -1,0 +1,33 @@
+{
+  "group": "mod_xrt",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:mycelium"
+    },
+    "3": {
+      "item": "minecraft:mycelium"
+    },
+    "4": {
+      "item": "minecraft:mycelium"
+    },
+    "6": {
+      "item": "minecraft:mycelium"
+    },
+    "7": {
+      "item": "minecraft:mycelium"
+    },
+    "8": {
+      "item": "minecraft:mycelium"
+    }
+  },
+  "result": {
+    "item": "mod_xrt:mycleniumstairs",
+    "count": 4
+  }
+}

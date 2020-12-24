@@ -1,0 +1,22 @@
+{
+  "group": "mod_xrt",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "mod_xrt:snowygrassblock"
+    },
+    "1": {
+      "item": "mod_xrt:snowygrassblock"
+    },
+    "2": {
+      "item": "mod_xrt:snowygrassblock"
+    }
+  },
+  "result": {
+    "item": "mod_xrt:snowygrassblockslab",
+    "count": 6
+  }
+}

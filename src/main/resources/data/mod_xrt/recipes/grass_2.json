@@ -1,0 +1,33 @@
+{
+  "group": "mod_xrt",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:podzol"
+    },
+    "3": {
+      "item": "minecraft:podzol"
+    },
+    "4": {
+      "item": "minecraft:podzol"
+    },
+    "6": {
+      "item": "minecraft:podzol"
+    },
+    "7": {
+      "item": "minecraft:podzol"
+    },
+    "8": {
+      "item": "minecraft:podzol"
+    }
+  },
+  "result": {
+    "item": "mod_xrt:podzolstair",
+    "count": 4
+  }
+}

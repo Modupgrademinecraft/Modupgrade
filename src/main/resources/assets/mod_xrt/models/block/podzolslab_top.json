@@ -3,6 +3,6 @@
   "textures": {
     "bottom": "mod_xrt:blocks/dirt",
     "top": "mod_xrt:blocks/podzol_top",
-    "side": "mod_xrt:blocks/podzol_side"
+    "side": "mod_xrt:blocks/g2"
   }
 }

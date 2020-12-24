@@ -35,7 +35,7 @@
     },
     "destroyTool": "shovel",
     "customDrop": {
-      "value": "Blocks.DIRT#1"
+      "value": "Blocks.DIRT#0"
     },
     "dropAmount": 1,
     "useLootTableForDrops": false,

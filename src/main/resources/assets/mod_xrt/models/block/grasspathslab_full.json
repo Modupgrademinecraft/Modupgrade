@@ -3,6 +3,6 @@
   "textures": {
     "bottom": "mod_xrt:blocks/dirt",
     "top": "mod_xrt:blocks/grass_path_top",
-    "side": "mod_xrt:blocks/grass_path_side"
+    "side": "mod_xrt:blocks/test"
   }
 }

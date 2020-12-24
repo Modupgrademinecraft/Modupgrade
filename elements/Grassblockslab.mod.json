@@ -5,7 +5,7 @@
     "texture": "dirt",
     "textureTop": "",
     "textureLeft": "grass_block_side",
-    "textureFront": "grass_block_side",
+    "textureFront": "g1",
     "textureRight": "grass_block_side",
     "textureBack": "grass_block_side",
     "renderType": 11,

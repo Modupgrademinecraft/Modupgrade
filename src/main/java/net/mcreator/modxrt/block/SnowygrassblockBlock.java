@@ -46,7 +46,7 @@ public class SnowygrassblockBlock extends ModXrtModElements.ModElement {
 			List<ItemStack> dropsOriginal = super.getDrops(state, builder);
 			if (!dropsOriginal.isEmpty())
 				return dropsOriginal;
-			return Collections.singletonList(new ItemStack(Blocks.COARSE_DIRT, (int) (1)));
+			return Collections.singletonList(new ItemStack(Blocks.DIRT, (int) (1)));
 		}
 	}
 }

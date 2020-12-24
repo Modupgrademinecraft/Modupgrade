@@ -5,7 +5,7 @@
     "texture": "dirt",
     "textureTop": "mycelium_top",
     "textureLeft": "mycelium_side",
-    "textureFront": "mycelium_side",
+    "textureFront": "g4",
     "textureRight": "mycelium_side",
     "textureBack": "mycelium_side",
     "renderType": 11,

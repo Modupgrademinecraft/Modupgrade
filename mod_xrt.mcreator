@@ -4291,24 +4291,6 @@
       "registry_name": "craft_terracota_68"
     },
     {
-      "name": "BoneBlock",
-      "type": "recipe",
-      "sortid": 489,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "bone_block"
-    },
-    {
-      "name": "Bone",
-      "type": "recipe",
-      "sortid": 490,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "bone"
-    },
-    {
       "name": "BoneMealBlock",
       "type": "block",
       "sortid": 491,
@@ -4451,6 +4433,24 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "birchleaves"
+    },
+    {
+      "name": "BoneBlock",
+      "type": "recipe",
+      "sortid": 507,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bone_block"
+    },
+    {
+      "name": "Bone",
+      "type": "recipe",
+      "sortid": 508,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bone"
     }
   ],
   "variable_elements": [],

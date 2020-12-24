@@ -1,12 +1,12 @@
 {
   "parent": "block/cube",
   "textures": {
-    "down": "mod_xrt:blocks/bonemealblock",
-    "up": "mod_xrt:blocks/bonemealblock",
-    "north": "mod_xrt:blocks/bonemealblock",
-    "east": "mod_xrt:blocks/bonemealblock",
-    "south": "mod_xrt:blocks/bonemealblock",
-    "west": "mod_xrt:blocks/bonemealblock",
-    "particle": "mod_xrt:blocks/bonemealblock"
+    "down": "mod_xrt:blocks/bonemealblock_v2",
+    "up": "mod_xrt:blocks/bonemealblock_v2",
+    "north": "mod_xrt:blocks/bonemealblock_v2",
+    "east": "mod_xrt:blocks/bonemealblock_v2",
+    "south": "mod_xrt:blocks/bonemealblock_v2",
+    "west": "mod_xrt:blocks/bonemealblock_v2",
+    "particle": "mod_xrt:blocks/bonemealblock_v2"
   }
 }

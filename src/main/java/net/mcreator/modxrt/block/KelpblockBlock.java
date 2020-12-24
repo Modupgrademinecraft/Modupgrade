@@ -34,7 +34,7 @@ public class KelpblockBlock extends ModXrtModElements.ModElement {
 	}
 	public static class CustomBlock extends Block {
 		public CustomBlock() {
-			super(Block.Properties.create(Material.SEA_GRASS).sound(SoundType.CORAL).hardnessAndResistance(1f, 10f).lightValue(0));
+			super(Block.Properties.create(Material.OCEAN_PLANT).sound(SoundType.PLANT).hardnessAndResistance(1f, 10f).lightValue(0));
 			setRegistryName("kelpblock");
 		}
 

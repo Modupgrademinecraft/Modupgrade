@@ -8,26 +8,26 @@
   ],
   "key": {
     "0": {
-      "item": "mod_xrt:snowygrassblock"
+      "item": "mod_xrt:unknown_element"
     },
     "3": {
-      "item": "mod_xrt:snowygrassblock"
+      "item": "mod_xrt:unknown_element"
     },
     "4": {
-      "item": "mod_xrt:snowygrassblock"
+      "item": "mod_xrt:unknown_element"
     },
     "6": {
-      "item": "mod_xrt:snowygrassblock"
+      "item": "mod_xrt:unknown_element"
     },
     "7": {
-      "item": "mod_xrt:snowygrassblock"
+      "item": "mod_xrt:unknown_element"
     },
     "8": {
-      "item": "mod_xrt:snowygrassblock"
+      "item": "mod_xrt:unknown_element"
     }
   },
   "result": {
-    "item": "mod_xrt:snowygrassstairs",
+    "item": "mod_xrt:unknown_element",
     "count": 4
   }
 }

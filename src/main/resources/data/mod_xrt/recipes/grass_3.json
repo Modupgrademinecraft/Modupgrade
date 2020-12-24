@@ -6,17 +6,17 @@
   ],
   "key": {
     "0": {
-      "item": "mod_xrt:snowygrassblock"
+      "item": "mod_xrt:unknown_element"
     },
     "1": {
-      "item": "mod_xrt:snowygrassblock"
+      "item": "mod_xrt:unknown_element"
     },
     "2": {
-      "item": "mod_xrt:snowygrassblock"
+      "item": "mod_xrt:unknown_element"
     }
   },
   "result": {
-    "item": "mod_xrt:snowygrassblockslab",
+    "item": "mod_xrt:unknown_element",
     "count": 6
   }
 }

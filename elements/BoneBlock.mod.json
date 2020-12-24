@@ -41,6 +41,6 @@
       "value": "Blocks.BONE_BLOCK"
     },
     "name": "bone_block",
-    "namespace": "mod"
+    "namespace": "minecraft"
   }
 }

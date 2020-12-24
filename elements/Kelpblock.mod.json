@@ -45,7 +45,7 @@
     "canProvidePower": false,
     "lightOpacity": 255,
     "material": {
-      "value": "SEA_GRASS"
+      "value": "OCEAN_PLANT"
     },
     "tickRate": 10,
     "tickRandomly": false,
@@ -63,7 +63,7 @@
     "reactionToPushing": "NORMAL",
     "isNotColidable": false,
     "soundOnStep": {
-      "value": "CORAL"
+      "value": "PLANT"
     },
     "luminance": 0.0,
     "unbreakable": false,

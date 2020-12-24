@@ -1,0 +1,33 @@
+{
+  "group": "mod_xrt",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:grass_path"
+    },
+    "3": {
+      "item": "minecraft:grass_path"
+    },
+    "4": {
+      "item": "minecraft:grass_path"
+    },
+    "6": {
+      "item": "minecraft:grass_path"
+    },
+    "7": {
+      "item": "minecraft:grass_path"
+    },
+    "8": {
+      "item": "minecraft:grass_path"
+    }
+  },
+  "result": {
+    "item": "mod_xrt:grasspathstairs",
+    "count": 4
+  }
+}

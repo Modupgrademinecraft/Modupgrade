@@ -1,0 +1,22 @@
+{
+  "group": "mod_xrt",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:coarse_dirt"
+    },
+    "1": {
+      "item": "minecraft:coarse_dirt"
+    },
+    "2": {
+      "item": "minecraft:coarse_dirt"
+    }
+  },
+  "result": {
+    "item": "mod_xrt:coarsedirtslab",
+    "count": 6
+  }
+}

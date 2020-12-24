@@ -2,7 +2,7 @@
   "parent": "block/stairs",
   "textures": {
     "bottom": "mod_xrt:blocks/dirt",
-    "top": "mod_xrt:blocks/green_terracotta",
+    "top": "mod_xrt:blocks/dirt",
     "side": "mod_xrt:blocks/grass_block_side"
   }
 }

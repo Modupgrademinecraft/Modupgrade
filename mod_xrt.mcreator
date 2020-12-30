@@ -4715,6 +4715,92 @@
           }
         ]
       }
+    },
+    {
+      "name": "Fullprotection",
+      "type": "enchantment",
+      "sortid": 535,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fullprotection"
+    },
+    {
+      "name": "Protection",
+      "type": "procedure",
+      "sortid": 536,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "protection",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      }
+    },
+    {
+      "name": "XPthief",
+      "type": "enchantment",
+      "sortid": 537,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "x_pthief"
+    },
+    {
+      "name": "VoleurXP",
+      "type": "procedure",
+      "sortid": 538,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "voleur_xp",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Heart",
+      "type": "enchantment",
+      "sortid": 539,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "heart"
+    },
+    {
+      "name": "Heartprocedure",
+      "type": "procedure",
+      "sortid": 540,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "heartprocedure",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -4723,8 +4809,8 @@
     "en_us": {
       "block.mod_xrt.blackconcretestair": "Black Concrete Stair",
       "item.mod_xrt.squid_tentacle": "Squid Tentacle",
-      "block.mod_xrt.sugar_block": "Sugar Block",
       "block.mod_xrt.sandstairs": "Sand stairs",
+      "block.mod_xrt.sugar_block": "Sugar Block",
       "block.mod_xrt.cactuswood": "Cactus Wood",
       "block.mod_xrt.lime_terracotta_stairs": "Lime Terracotta Stairs",
       "block.mod_xrt.cyanconcretestair": "Cyan Concrete Stair",
@@ -4736,10 +4822,11 @@
       "block.mod_xrt.light_gray_terracotta_stairs": "Light Gray Terracotta Stairs",
       "block.mod_xrt.blue_terracotta_slab": "Blue Terracotta Slab",
       "block.mod_xrt.white_terracotta_stairs": "White Terracotta Stairs",
+      "enchantment.mod_xrt.heart": "Heart",
       "block.mod_xrt.cracked_diorite_slab": "Cracked Diorite Bricks Slab",
       "block.mod_xrt.bone_meal_block": "Bone Meal Block",
-      "block.mod_xrt.cracked_chiseled_andisite": "Cracked Chiseled Andesite",
       "block.mod_xrt.soulsandslab": "Soulsand slab",
+      "block.mod_xrt.cracked_chiseled_andisite": "Cracked Chiseled Andesite",
       "block.mod_xrt.mossydioriteslab": "Mossy diorite slab",
       "item.mod_xrt.horse": "Horse",
       "block.mod_xrt.podzolslab": "Podzol slab",
@@ -4748,8 +4835,8 @@
       "block.mod_xrt.diorite_bricks_stairs": "Diorite Bricks Stairs",
       "block.mod_xrt.cactusfencegate": "Cactus Fence Gate",
       "block.mod_xrt.limeconcretestair": "Lime Concrete Stair",
-      "block.mod_xrt.magenta_terracotta_slab": "Magenta Terracotta Slab",
       "block.mod_xrt.cactusfence": "Cactus Fence",
+      "block.mod_xrt.magenta_terracotta_slab": "Magenta Terracotta Slab",
       "block.mod_xrt.mossy_chiseled_stone": "Mossy Chiseled Stone Bricks",
       "block.mod_xrt.mossy_andesite_bricks": "Mossy Andesite Bricks",
       "block.mod_xrt.mossydiorite": "Mossy diorite",
@@ -4764,14 +4851,14 @@
       "block.mod_xrt.mossy_andesite_bricks_wall": "Mossy Andesite Bricks Wall",
       "block.mod_xrt.light_gray_terracotta_slab": "Light Gray Terracotta Slab",
       "block.mod_xrt.granite_bricks_stairs": "Granite Bricks Stairs",
-      "block.mod_xrt.coarsedirtstairs": "Coarse dirt stairs",
       "block.mod_xrt.blockdepoudreacanon": "Gunpowder Block",
+      "block.mod_xrt.coarsedirtstairs": "Coarse dirt stairs",
       "enchantment.mod_xrt.poison": "Poison",
       "block.mod_xrt.andesite_bricks_stairs": "Andesite Bricks Stairs",
       "block.mod_xrt.nautilusblock": "Nautilus Block",
       "block.mod_xrt.mossyandesite": "Mossy andesite",
-      "block.mod_xrt.andesite_bricks_slab": "Andesite Bricks Slab",
       "block.mod_xrt.mossy_granite_bricks_slab": "Mossy Granite Bricks Slab",
+      "block.mod_xrt.andesite_bricks_slab": "Andesite Bricks Slab",
       "block.mod_xrt.green_terracotta_stairs": "Green Terracotta Stairs",
       "block.mod_xrt.chiseled_andesite": "Chiseled Andesite",
       "block.mod_xrt.diorite_bricksw_wall": "Diorite Bricksw Wall",
@@ -4844,6 +4931,7 @@
       "block.mod_xrt.granite_bricks_wall": "Granite Bricks Wall",
       "block.mod_xrt.redsandstairs": " redsand stairs",
       "block.mod_xrt.cracked_granite_bricks_wall": "Cracked Granite Bricks Wall",
+      "enchantment.mod_xrt.fullprotection": "Full protection",
       "block.mod_xrt.mossy_diorite_bricks_wall": "Mossy Diorite Bricks Wall",
       "block.mod_xrt.brown_terracotta_stairs": "Brown Terracotta Stairs",
       "block.mod_xrt.lightblueconcreteslab": "Light Blue Concrete Slab",
@@ -4867,6 +4955,7 @@
       "block.mod_xrt.pinkconcretestair": "Pink Concrete Stair",
       "block.mod_xrt.redconcreteslab": "Red Concrete Slab",
       "block.mod_xrt.grassblockstairs": "Grass block stairs",
+      "enchantment.mod_xrt.x_pthief": "XP thief",
       "block.mod_xrt.lightblueconcretestair": "Light Blue Concrete Stair",
       "block.mod_xrt.sandslab": "Sand slab",
       "block.mod_xrt.purpulconcretestair": "Purple Concrete Stair",
@@ -4917,8 +5006,8 @@
     "fr_fr": {
       "block.mod_xrt.blackconcretestair": "Escalier en Beton Noir",
       "item.mod_xrt.squid_tentacle": "Squid Tentacle",
-      "block.mod_xrt.sugar_block": "Sugar Block",
       "block.mod_xrt.sandstairs": "Escalier en sable",
+      "block.mod_xrt.sugar_block": "Sugar Block",
       "block.mod_xrt.cactuswood": "Bois de cactus",
       "block.mod_xrt.lime_terracotta_stairs": "Lime Terracotta Slab",
       "block.mod_xrt.cyanconcretestair": "Escalier en Beton Cyan",
@@ -4930,10 +5019,11 @@
       "block.mod_xrt.light_gray_terracotta_stairs": "Light Gray Terracotta Slab",
       "block.mod_xrt.blue_terracotta_slab": "Brown Terracotta Slab",
       "block.mod_xrt.white_terracotta_stairs": "White Terracotta Slab",
+      "enchantment.mod_xrt.heart": "Heart",
       "block.mod_xrt.cracked_diorite_slab": "Cracked Diorite Slab",
       "block.mod_xrt.bone_meal_block": "Bone Meal Block",
-      "block.mod_xrt.cracked_chiseled_andisite": "Cracked Chiseled Andisite",
       "block.mod_xrt.soulsandslab": "Dalle en Soulsand ",
+      "block.mod_xrt.cracked_chiseled_andisite": "Cracked Chiseled Andisite",
       "block.mod_xrt.mossydioriteslab": "Mossy diorite slab",
       "item.mod_xrt.horse": "Horse",
       "block.mod_xrt.podzolslab": "Podzol slab",
@@ -4942,8 +5032,8 @@
       "block.mod_xrt.diorite_bricks_stairs": "Diorite Bricks Stairs",
       "block.mod_xrt.cactusfencegate": "Barriere en Cactus",
       "block.mod_xrt.limeconcretestair": "Escalier en Beton Vert Clair",
-      "block.mod_xrt.magenta_terracotta_slab": "Orange Terracotta Slab",
       "block.mod_xrt.cactusfence": "Barrière en Cactus",
+      "block.mod_xrt.magenta_terracotta_slab": "Orange Terracotta Slab",
       "block.mod_xrt.mossy_chiseled_stone": "Mossy Chiseled Stone",
       "block.mod_xrt.mossy_andesite_bricks": "Mossy Andesite Bricks",
       "block.mod_xrt.mossydiorite": "Mossy diorite",
@@ -4958,14 +5048,14 @@
       "block.mod_xrt.mossy_andesite_bricks_wall": "Mossy Andesite Bricks Wall",
       "block.mod_xrt.light_gray_terracotta_slab": "Lime Terracotta Slab",
       "block.mod_xrt.granite_bricks_stairs": "Granite Bricks Stairs",
-      "block.mod_xrt.coarsedirtstairs": "Coarse dirt stairs",
       "block.mod_xrt.blockdepoudreacanon": "Gunpowder Block",
+      "block.mod_xrt.coarsedirtstairs": "Coarse dirt stairs",
       "enchantment.mod_xrt.poison": "Poison",
       "block.mod_xrt.andesite_bricks_stairs": "Andesite Bricks Stairs",
       "block.mod_xrt.nautilusblock": "Nautilusblock",
       "block.mod_xrt.mossyandesite": "Mossy andesite",
-      "block.mod_xrt.andesite_bricks_slab": "Andesite Bricks Slab",
       "block.mod_xrt.mossy_granite_bricks_slab": "Mossy Granite Bricks Slab",
+      "block.mod_xrt.andesite_bricks_slab": "Andesite Bricks Slab",
       "block.mod_xrt.green_terracotta_stairs": "Green Terracotta Slab",
       "block.mod_xrt.chiseled_andesite": "Chiseled Andesite",
       "block.mod_xrt.diorite_bricksw_wall": "Diorite Bricksw Wall",
@@ -5038,6 +5128,7 @@
       "block.mod_xrt.granite_bricks_wall": "Granite Bricks Wall",
       "block.mod_xrt.redsandstairs": "Escalier en Sable Rouge",
       "block.mod_xrt.cracked_granite_bricks_wall": "Cracked Granite Bricks Wall",
+      "enchantment.mod_xrt.fullprotection": "Full protection",
       "block.mod_xrt.mossy_diorite_bricks_wall": "Mossy Diorite Bricks Wall",
       "block.mod_xrt.brown_terracotta_stairs": "Brown Terracotta Slab",
       "block.mod_xrt.lightblueconcreteslab": "Dalle en Beton Bleu Clair",
@@ -5061,6 +5152,7 @@
       "block.mod_xrt.pinkconcretestair": "Escalier en Beton Rose",
       "block.mod_xrt.redconcreteslab": "Dalle en Beton Rouge",
       "block.mod_xrt.grassblockstairs": "Grass block stairs",
+      "enchantment.mod_xrt.x_pthief": "XP thief",
       "block.mod_xrt.lightblueconcretestair": "Escalier en Beton Bleu Clair",
       "block.mod_xrt.sandslab": "Dalle en Sable",
       "block.mod_xrt.purpulconcretestair": "Escalier en Beton Violet",

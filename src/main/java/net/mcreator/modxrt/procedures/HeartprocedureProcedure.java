@@ -8,6 +8,7 @@ import net.minecraft.world.World;
 import net.minecraft.potion.Effects;
 import net.minecraft.potion.EffectInstance;
 import net.minecraft.item.ItemStack;
+import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.entity.LivingEntity;
 import net.minecraft.entity.Entity;
 import net.minecraft.enchantment.EnchantmentHelper;
@@ -30,16 +31,34 @@ public class HeartprocedureProcedure extends ModXrtModElements.ModElement {
 				System.err.println("Failed to load dependency entity for procedure Heartprocedure!");
 			return;
 		}
-		if (dependencies.get("itemstack") == null) {
-			if (!dependencies.containsKey("itemstack"))
-				System.err.println("Failed to load dependency itemstack for procedure Heartprocedure!");
-			return;
-		}
 		Entity entity = (Entity) dependencies.get("entity");
-		ItemStack itemstack = (ItemStack) dependencies.get("itemstack");
-		if (((EnchantmentHelper.getEnchantmentLevel(HeartEnchantment.enchantment, (itemstack))) == 1)) {
-			if (entity instanceof LivingEntity)
-				((LivingEntity) entity).addPotionEffect(new EffectInstance(Effects.ABSORPTION, (int) 10000, (int) 2));
+		if (((((entity instanceof PlayerEntity) ? ((PlayerEntity) entity).inventory.armorInventory.get((int) 0) : ItemStack.EMPTY)).isEnchanted())) {
+			if (((EnchantmentHelper.getEnchantmentLevel(HeartEnchantment.enchantment,
+					((entity instanceof PlayerEntity) ? ((PlayerEntity) entity).inventory.armorInventory.get((int) 0) : ItemStack.EMPTY))) == 1)) {
+				if (entity instanceof LivingEntity)
+					((LivingEntity) entity).addPotionEffect(new EffectInstance(Effects.ABSORPTION, (int) 10000, (int) 2));
+			}
+		}
+		if (((((entity instanceof PlayerEntity) ? ((PlayerEntity) entity).inventory.armorInventory.get((int) 1) : ItemStack.EMPTY)).isEnchanted())) {
+			if (((EnchantmentHelper.getEnchantmentLevel(HeartEnchantment.enchantment,
+					((entity instanceof PlayerEntity) ? ((PlayerEntity) entity).inventory.armorInventory.get((int) 1) : ItemStack.EMPTY))) == 1)) {
+				if (entity instanceof LivingEntity)
+					((LivingEntity) entity).addPotionEffect(new EffectInstance(Effects.ABSORPTION, (int) 10000, (int) 2));
+			}
+		}
+		if (((((entity instanceof PlayerEntity) ? ((PlayerEntity) entity).inventory.armorInventory.get((int) 2) : ItemStack.EMPTY)).isEnchanted())) {
+			if (((EnchantmentHelper.getEnchantmentLevel(HeartEnchantment.enchantment,
+					((entity instanceof PlayerEntity) ? ((PlayerEntity) entity).inventory.armorInventory.get((int) 2) : ItemStack.EMPTY))) == 1)) {
+				if (entity instanceof LivingEntity)
+					((LivingEntity) entity).addPotionEffect(new EffectInstance(Effects.ABSORPTION, (int) 10000, (int) 2));
+			}
+		}
+		if (((((entity instanceof PlayerEntity) ? ((PlayerEntity) entity).inventory.armorInventory.get((int) 3) : ItemStack.EMPTY)).isEnchanted())) {
+			if (((EnchantmentHelper.getEnchantmentLevel(HeartEnchantment.enchantment,
+					((entity instanceof PlayerEntity) ? ((PlayerEntity) entity).inventory.armorInventory.get((int) 3) : ItemStack.EMPTY))) == 1)) {
+				if (entity instanceof LivingEntity)
+					((LivingEntity) entity).addPotionEffect(new EffectInstance(Effects.ABSORPTION, (int) 10000, (int) 2));
+			}
 		}
 	}
 

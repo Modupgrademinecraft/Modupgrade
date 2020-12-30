@@ -5,8 +5,6 @@ import net.minecraftforge.event.entity.living.LivingEntityUseItemEvent;
 import net.minecraftforge.common.MinecraftForge;
 
 import net.minecraft.world.World;
-import net.minecraft.util.ResourceLocation;
-import net.minecraft.tags.ItemTags;
 import net.minecraft.potion.Effects;
 import net.minecraft.potion.EffectInstance;
 import net.minecraft.item.ItemStack;
@@ -39,8 +37,7 @@ public class PoisonenchantementProcedure extends ModXrtModElements.ModElement {
 		}
 		Entity entity = (Entity) dependencies.get("entity");
 		ItemStack itemstack = (ItemStack) dependencies.get("itemstack");
-		if (((ItemTags.getCollection().getOrCreate(new ResourceLocation(("weapon").toLowerCase(java.util.Locale.ENGLISH)))
-				.contains((itemstack).getItem())) && ((EnchantmentHelper.getEnchantmentLevel(PoisonEnchantment.enchantment, (itemstack)) != 0)))) {
+		if (((EnchantmentHelper.getEnchantmentLevel(PoisonEnchantment.enchantment, (itemstack)) != 0))) {
 			if (((EnchantmentHelper.getEnchantmentLevel(PoisonEnchantment.enchantment, (itemstack))) == 1)) {
 				if (entity instanceof LivingEntity)
 					((LivingEntity) entity).addPotionEffect(new EffectInstance(Effects.POISON, (int) 90, (int) 1));
